@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="language_not_choose">#D1EEEE</color>
+    <color name="language_choose">#FFFFFF</color>
+    <color name="blue">#ff00c8ff</color>
+    <color name="selection_background_color_light">#FEBB20</color>
+    <color name="pm_api_1">#0086DD</color>
+    <color name="pm_api_2">#055FB7</color>
+    <color name="pm_api_3">#EF6701</color>
+    <color name="pm_api_4">#E20001</color>
+    <color name="titleblue">#4F94CD</color>
+    <color name="red">#900</color>
+    <color name="green">#090</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="blue_bg">#1359B8</color>
+    <color name="gray_bg">#B5B5B5</color>
+    <color name="item_selected_color">#FF82D0EF</color>
+    <color name="menu_item_bg">#222222</color>
+    <color name="menu_item_pressed">#0055AF</color>
+    <color name="contribute">#0173D4</color>
+    <color name="send_selected">#6FFAFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="userspace_menu">#0073D3</color>
+    <color name="features_text_default">#FFB5B5B6</color>
+    <color name="left_menu_text_color">#444444</color>
+    <color name="left_menu_text_item_color">#666666</color>
+    <color name="topbar_bg_selected">#3B3C3D</color>
+    <color name="control_selected">#8EDC01</color>
+    <color name="alarm_log_option">#E9E9E9</color>
+    <color name="playback_allow">#323232</color>
+    <color name="background">#FF000000</color>
+    <color name="control_back">#AA00003D</color>
+    <color name="dialog_back">#330000FF</color>
+    <color name="alarm_focus">#B5EBB2</color>
+    <color name="setting_focus">#9DD670</color>
+    <color name="camera_list_bg">#B5EBB2</color>
+    <color name="time_red_color">#FF0000</color>
+    <color name="top_bar_title">#535353</color>
+    <color name="main_text_color1">#444444</color>
+    <color name="main_text_color2">#31337D</color>
+    <color name="main_text_color3">#FFFFFF</color>
+    <color name="user_detail_public_bg">#f3f3f3</color>
+    <color name="user_list_public_bg">#e5e6e7</color>
+    <color name="normal_text">#FF758493</color>
+    <color name="text_color_shenhui_677582">#677582</color>
+    <color name="text_color_qianhui_a3a4a4">#a3a4a4</color>
+    <color name="text_color_heise_504f4f">#504f4f</color>
+    <color name="text_color_baise_fffefe">#fffefe</color>
+    <color name="text_color_hongse_ff4318">#ff4318</color>
+    <color name="text_color_zhongheise_461bd4">#461bd4</color>
+    <color name="text_color_zhonghongse_461b04">#461b04</color>
+    <color name="text_color_huangse_ff8800">#ff8800</color>
+    <color name="text_color_shurukuang_aeb6bd">#aeb6bd</color>
+    <color name="text_color_right_other_text">#666666</color>
+    <color name="today_color_bg_text">#f0f0f0</color>
+    <color name="today_color_night_bg_text">#999999</color>
+    <color name="night_darker_gray">#595959</color>
+    <color name="playlist_ispaly_now">#007DE9</color>
+    <color name="userlogin_night_background">#86222222</color>
+    <color name="palyer_fucus_background">#33666666</color>
+    <color name="palyerlist_fucus_background">#ffeaf5ff</color>
+    <color name="feedback_ed_background">#fff0f0f0</color>
+    <color name="feedback_ed_hint_background">#bbbbbb</color>
+    <color name="feedback_ed_night_background">#595959</color>
+    <color name="feedback_ed_hint_night_background">#999999</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_selected_stroke">#ffcc3131</color>
+    <color name="subscribe_item_selected_bg">#ffffffff</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+    <color name="favorite_swip_delete_bg">#FF4200</color>
+    <color name="line_gray">#999999</color>
+    <color name="line_gray2">#EFEFEF</color>
+    <color name="click_back">#EAEAEA</color>
+    <color name="list_background">#ededed</color>
+    <color name="list_background2">#d9d9d9</color>
+    <color name="text_gray">#888888</color>
+    <!-- 日间模式页面背景色 -->
+    <!-- <color name="fmt_background">#F6F6F6</color> -->
+    <color name="fmt_background">#FFFFFFFF</color>
+    <!-- 日间模式：未看过新闻的字体颜色 -->
+    <color name="news_read_none">#444444</color>
+    <!-- 日间模式：看过新闻的字体颜色 -->
+    <color name="news_read_ok">#999999</color>
+    <!-- 日间模式：分隔线 -->
+    <color name="right_line_view_color">#DBDBDB</color>
+    <!-- 日间模式：选中背景 -->
+    <color name="news_list_selected_focus">#EEEEEE</color>
+
+    <!-- 夜间模式页面背景色 -->
+    <color name="night_fmt_background_webview">#080C10</color>
+    <color name="night_fmt_background">#080C10</color>
+    <!-- 夜间模式：未看过新闻的字体颜色 -->
+    <color name="night_news_read_none">#FFFFFF</color>
+    <!-- 夜间模式：看过新闻的字体颜色 -->
+    <color name="night_news_read_ok">#999999</color>
+    <!-- 夜间模式：分隔线 #0C0D11 -->
+    <color name="night_right_line_view_color">#999999</color>
+    <!-- 夜间模式：选中背景 -->
+    <color name="night_news_list_selected_focus">#131313</color>
+
+    <!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#ffffff</color>
+    <color name="frame_title_bg">#FFF8F8F8</color>
+    <color name="frame_main_bg">#FFF1F1F1</color>
+    <color name="special_line">#FFCCCCCC</color>
+    <color name="navpage">#FFE1E8EB</color>
+
+    <!-- 半透明颜色 -->
+    <color name="linear_bg">#aa000000</color>
+    <!-- 字的背景颜色 -->
+    <color name="text_bg">#ccf6f6f6</color>
+
+    <!-- 进度条 -->
+    <color name="h_seek_bar_1">#DEDEDE</color>
+    <color name="h_seek_bar_2">#007DC5</color>
+
+    <!-- 新闻条目时间 -->
+    <color name="news_time">#666666</color>
+    <color name="nav_title_text">#FFFFFF</color>
+    <color name="bg_blue">#006FBC</color>
+    <color name="text_bule">#006fbc</color>
+    <color name="clock_true">#4F94CD</color>
+    <color name="seek_line">#cbcbcb</color>
+
+    <!-- add rui -->
+    <!-- prize -->
+    <color name="prize_name">#006fbc</color>
+    <color name="prize_content">#444444</color>
+    <color name="expiry_gray">#888888</color>
+    <color name="prize_name1">#22006fbc</color>
+
+</resources>
